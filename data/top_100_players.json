@@ -1,0 +1,1802 @@
+[
+  {
+    "season_rank": 1,
+    "hero_code": "c1103_s01",
+    "nickname": "WoIf\u30c4",
+    "nick_no": 131194349,
+    "world_code": "world_global",
+    "clan_name": "Life",
+    "season_tiercode": "legend",
+    "win_score": 3434,
+    "win_rate": 69.6,
+    "win_cnt": 1417,
+    "lose_cnt": 619,
+    "hero_list": [
+      "c1143",
+      "c1168",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 2,
+    "hero_code": "c1129",
+    "nickname": "Khhm",
+    "nick_no": 192119856,
+    "world_code": "world_eu",
+    "clan_name": "Nekophilia",
+    "season_tiercode": "legend",
+    "win_score": 3372,
+    "win_rate": 68.59,
+    "win_cnt": 618,
+    "lose_cnt": 283,
+    "hero_list": [
+      "c2113",
+      "c1176",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 3,
+    "hero_code": "c3151",
+    "nickname": "Ellifton",
+    "nick_no": 85251058,
+    "world_code": "world_global",
+    "clan_name": "Destiny",
+    "season_tiercode": "legend",
+    "win_score": 3368,
+    "win_rate": 65.89,
+    "win_cnt": 595,
+    "lose_cnt": 308,
+    "hero_list": [
+      "c2113",
+      "c1168",
+      "c2066"
+    ]
+  },
+  {
+    "season_rank": 4,
+    "hero_code": "c1172",
+    "nickname": "Tetsu\u5f71",
+    "nick_no": 134329925,
+    "world_code": "world_eu",
+    "clan_name": "Valkyr",
+    "season_tiercode": "legend",
+    "win_score": 3362,
+    "win_rate": 68.71,
+    "win_cnt": 459,
+    "lose_cnt": 209,
+    "hero_list": [
+      "c6050",
+      "c2113",
+      "c5110"
+    ]
+  },
+  {
+    "season_rank": 5,
+    "hero_code": "c1124",
+    "nickname": "Meowmixxed",
+    "nick_no": 139771474,
+    "world_code": "world_global",
+    "clan_name": "Paladia",
+    "season_tiercode": "legend",
+    "win_score": 3348,
+    "win_rate": 65.98,
+    "win_cnt": 871,
+    "lose_cnt": 449,
+    "hero_list": [
+      "c2001",
+      "c2124",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 6,
+    "hero_code": "c6005",
+    "nickname": "IOMEGAI",
+    "nick_no": 71212252,
+    "world_code": "world_asia",
+    "clan_name": "Outspeed",
+    "season_tiercode": "legend",
+    "win_score": 3347,
+    "win_rate": 68.67,
+    "win_cnt": 741,
+    "lose_cnt": 338,
+    "hero_list": [
+      "c1168",
+      "c2124",
+      "c6005"
+    ]
+  },
+  {
+    "season_rank": 7,
+    "hero_code": "c1176",
+    "nickname": "\uc124\ud654\ubc1c\ub2e6\uac1c",
+    "nick_no": 277751293,
+    "world_code": "world_kor",
+    "clan_name": "\ud55c\uc815\uc8fc\uc138\uc694",
+    "season_tiercode": "legend",
+    "win_score": 3334,
+    "win_rate": 67.15,
+    "win_cnt": 785,
+    "lose_cnt": 384,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 8,
+    "hero_code": "c1038",
+    "nickname": "\ub450\ubc88\uc9f8\uc774\uc57c\uae30",
+    "nick_no": 56321005,
+    "world_code": "world_kor",
+    "clan_name": "Zero",
+    "season_tiercode": "legend",
+    "win_score": 3293,
+    "win_rate": 61.08,
+    "win_cnt": 736,
+    "lose_cnt": 469,
+    "hero_list": [
+      "c2002",
+      "c1153",
+      "c2090"
+    ]
+  },
+  {
+    "season_rank": 9,
+    "hero_code": "c1100",
+    "nickname": "\ubbf8\ub4dc\ub178\ub8e8",
+    "nick_no": 94054303,
+    "world_code": "world_kor",
+    "clan_name": "\uc131\uc5ed\uc758\ub300\ucc9c\uc0ac\ub4e4",
+    "season_tiercode": "legend",
+    "win_score": 3290,
+    "win_rate": 66.72,
+    "win_cnt": 405,
+    "lose_cnt": 202,
+    "hero_list": [
+      "c2113",
+      "c2125",
+      "c6050"
+    ]
+  },
+  {
+    "season_rank": 10,
+    "hero_code": "c2066",
+    "nickname": "\ubbfc\ud2b8\ucd08\ucf54\ubd09\ubd09",
+    "nick_no": 58163526,
+    "world_code": "world_kor",
+    "clan_name": "\uc11c\uc57d",
+    "season_tiercode": "legend",
+    "win_score": 3280,
+    "win_rate": 59.98,
+    "win_cnt": 511,
+    "lose_cnt": 341,
+    "hero_list": [
+      "c2125",
+      "c2066",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 11,
+    "hero_code": "c1159",
+    "nickname": "\uace0\uba15\ubbf8",
+    "nick_no": 119456895,
+    "world_code": "world_kor",
+    "clan_name": "\ud37c\ub79c\ub4dc",
+    "season_tiercode": "legend",
+    "win_score": 3278,
+    "win_rate": 70.08,
+    "win_cnt": 527,
+    "lose_cnt": 225,
+    "hero_list": [
+      "c2124",
+      "c1143",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 12,
+    "hero_code": "c1096",
+    "nickname": "\u7eb1\u5e78",
+    "nick_no": 157496187,
+    "world_code": "world_global",
+    "clan_name": "Punpunia",
+    "season_tiercode": "legend",
+    "win_score": 3275,
+    "win_rate": 69.06,
+    "win_cnt": 308,
+    "lose_cnt": 138,
+    "hero_list": [
+      "c5110",
+      "c2113",
+      "c2089"
+    ]
+  },
+  {
+    "season_rank": 13,
+    "hero_code": "c1147",
+    "nickname": "paradise",
+    "nick_no": 52452738,
+    "world_code": "world_kor",
+    "clan_name": "\ucf54\uce68\ubc18",
+    "season_tiercode": "legend",
+    "win_score": 3270,
+    "win_rate": 62.18,
+    "win_cnt": 411,
+    "lose_cnt": 250,
+    "hero_list": [
+      "c1176",
+      "c2125",
+      "c5110"
+    ]
+  },
+  {
+    "season_rank": 14,
+    "hero_code": "c6050",
+    "nickname": "108050",
+    "nick_no": 206705999,
+    "world_code": "world_global",
+    "clan_name": "Paladia",
+    "season_tiercode": "legend",
+    "win_score": 3268,
+    "win_rate": 66.86,
+    "win_cnt": 462,
+    "lose_cnt": 229,
+    "hero_list": [
+      "c2001",
+      "c2089",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 15,
+    "hero_code": "c1176",
+    "nickname": "AceTrainer",
+    "nick_no": 134489859,
+    "world_code": "world_global",
+    "clan_name": "Veritas",
+    "season_tiercode": "legend",
+    "win_score": 3264,
+    "win_rate": 63.5,
+    "win_cnt": 736,
+    "lose_cnt": 423,
+    "hero_list": [
+      "c5110",
+      "c2125",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 16,
+    "hero_code": "c1112_s01",
+    "nickname": "\ucc3d\ud574\uc720\uc8fc",
+    "nick_no": 59130596,
+    "world_code": "world_kor",
+    "clan_name": "\uad11\uc7a5",
+    "season_tiercode": "legend",
+    "win_score": 3255,
+    "win_rate": 59.26,
+    "win_cnt": 691,
+    "lose_cnt": 475,
+    "hero_list": [
+      "c2113",
+      "c2128",
+      "c5110"
+    ]
+  },
+  {
+    "season_rank": 17,
+    "hero_code": "c2103",
+    "nickname": "Kukurbat",
+    "nick_no": 159055138,
+    "world_code": "world_global",
+    "clan_name": "Fleet",
+    "season_tiercode": "legend",
+    "win_score": 3253,
+    "win_rate": 59.5,
+    "win_cnt": 576,
+    "lose_cnt": 392,
+    "hero_list": [
+      "c1168",
+      "c2103",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 18,
+    "hero_code": "c2082",
+    "nickname": "Cry\u30e1",
+    "nick_no": 80002605,
+    "world_code": "world_global",
+    "clan_name": "Fleet",
+    "season_tiercode": "legend",
+    "win_score": 3244,
+    "win_rate": 54.29,
+    "win_cnt": 462,
+    "lose_cnt": 389,
+    "hero_list": [
+      "c6050",
+      "c1168",
+      "c2103"
+    ]
+  },
+  {
+    "season_rank": 19,
+    "hero_code": "c1153_s01",
+    "nickname": "epic7#v3vh6a",
+    "nick_no": 280479300,
+    "world_code": "world_asia",
+    "clan_name": "EpicHeaven",
+    "season_tiercode": "legend",
+    "win_score": 3240,
+    "win_rate": 61.98,
+    "win_cnt": 569,
+    "lose_cnt": 349,
+    "hero_list": [
+      "c1172",
+      "c2001",
+      "c1153"
+    ]
+  },
+  {
+    "season_rank": 20,
+    "hero_code": "c2062",
+    "nickname": "\u6cb3\u87f9",
+    "nick_no": 250402166,
+    "world_code": "world_asia",
+    "clan_name": "\u5929\u5730\u6770",
+    "season_tiercode": "legend",
+    "win_score": 3236,
+    "win_rate": 61.24,
+    "win_cnt": 376,
+    "lose_cnt": 238,
+    "hero_list": [
+      "c1168",
+      "c2113",
+      "c2079"
+    ]
+  },
+  {
+    "season_rank": 21,
+    "hero_code": "c1155",
+    "nickname": "\u53f2\u8a697\u306e\u672b\u65e5",
+    "nick_no": 137362013,
+    "world_code": "world_asia",
+    "clan_name": "\u9ca8\u9c7c\u7684\u5947\u5999\u5de5\u4f1a",
+    "season_tiercode": "legend",
+    "win_score": 3231,
+    "win_rate": 62.05,
+    "win_cnt": 358,
+    "lose_cnt": 219,
+    "hero_list": [
+      "c1168",
+      "c2103",
+      "c6005"
+    ]
+  },
+  {
+    "season_rank": 22,
+    "hero_code": "c1168",
+    "nickname": "\u98ce\u4fe1\u7d2b",
+    "nick_no": 70740038,
+    "world_code": "world_asia",
+    "clan_name": "\u6c34\u9f8d\u656c\u6a02\u5712",
+    "season_tiercode": "legend",
+    "win_score": 3226,
+    "win_rate": 61.31,
+    "win_cnt": 374,
+    "lose_cnt": 236,
+    "hero_list": [
+      "c2002",
+      "c1168",
+      "c2125"
+    ]
+  },
+  {
+    "season_rank": 23,
+    "hero_code": "c2112",
+    "nickname": "\u6bd4\u90a3\u540d\u5c45\u304a",
+    "nick_no": 61088039,
+    "world_code": "world_asia",
+    "clan_name": "\u6708\u7af9",
+    "season_tiercode": "legend",
+    "win_score": 3224,
+    "win_rate": 70.38,
+    "win_cnt": 259,
+    "lose_cnt": 109,
+    "hero_list": [
+      "c1143",
+      "c6050",
+      "c1168"
+    ]
+  },
+  {
+    "season_rank": 24,
+    "hero_code": "c2038",
+    "nickname": "Akane\u9ed2\u5ddd",
+    "nick_no": 159161103,
+    "world_code": "world_asia",
+    "clan_name": "Outspeed",
+    "season_tiercode": "legend",
+    "win_score": 3218,
+    "win_rate": 57.97,
+    "win_cnt": 440,
+    "lose_cnt": 319,
+    "hero_list": [
+      "c1176",
+      "c2089",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 25,
+    "hero_code": "c1125_s01",
+    "nickname": "light",
+    "nick_no": 60090739,
+    "world_code": "world_global",
+    "clan_name": "Architects",
+    "season_tiercode": "legend",
+    "win_score": 3213,
+    "win_rate": 61.37,
+    "win_cnt": 664,
+    "lose_cnt": 418,
+    "hero_list": [
+      "c2066",
+      "c1176",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 26,
+    "hero_code": "c3160",
+    "nickname": "iAmironP",
+    "nick_no": 61214698,
+    "world_code": "world_global",
+    "clan_name": "Xmas",
+    "season_tiercode": "legend",
+    "win_score": 3206,
+    "win_rate": 63.93,
+    "win_cnt": 273,
+    "lose_cnt": 154,
+    "hero_list": [
+      "c1172",
+      "c2049",
+      "c6005"
+    ]
+  },
+  {
+    "season_rank": 27,
+    "hero_code": "c1151",
+    "nickname": "Deystar",
+    "nick_no": 313012174,
+    "world_code": "world_global",
+    "clan_name": "Prelude",
+    "season_tiercode": "legend",
+    "win_score": 3200,
+    "win_rate": 58.68,
+    "win_cnt": 869,
+    "lose_cnt": 612,
+    "hero_list": [
+      "c2066",
+      "c1176",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 28,
+    "hero_code": "c1174",
+    "nickname": "Hinojin",
+    "nick_no": 60142509,
+    "world_code": "world_global",
+    "clan_name": "BAKA7",
+    "season_tiercode": "legend",
+    "win_score": 3195,
+    "win_rate": 62.21,
+    "win_cnt": 344,
+    "lose_cnt": 209,
+    "hero_list": [
+      "c2128",
+      "c2113",
+      "c1168"
+    ]
+  },
+  {
+    "season_rank": 29,
+    "hero_code": "c6003",
+    "nickname": "\u6708\u831c",
+    "nick_no": 77041625,
+    "world_code": "world_asia",
+    "clan_name": "\u65e0\u5934\u9a91\u58eb\u5f02\u95fb\u5f55",
+    "season_tiercode": "legend",
+    "win_score": 3188,
+    "win_rate": 53.42,
+    "win_cnt": 718,
+    "lose_cnt": 626,
+    "hero_list": [
+      "c2103",
+      "c1133",
+      "c2089"
+    ]
+  },
+  {
+    "season_rank": 30,
+    "hero_code": "c1116",
+    "nickname": "\u6625\u65e5\u5f71\u4e36",
+    "nick_no": 70534018,
+    "world_code": "world_asia",
+    "clan_name": "\u6708\u7af9",
+    "season_tiercode": "legend",
+    "win_score": 3181,
+    "win_rate": 50.48,
+    "win_cnt": 951,
+    "lose_cnt": 933,
+    "hero_list": [
+      "c1143",
+      "c2103",
+      "c2125"
+    ]
+  },
+  {
+    "season_rank": 31,
+    "hero_code": "c1176",
+    "nickname": "Caerliss",
+    "nick_no": 63471324,
+    "world_code": "world_global",
+    "clan_name": "Morry",
+    "season_tiercode": "legend",
+    "win_score": 3178,
+    "win_rate": 68.42,
+    "win_cnt": 312,
+    "lose_cnt": 144,
+    "hero_list": [
+      "c1168",
+      "c2124",
+      "c1143"
+    ]
+  },
+  {
+    "season_rank": 32,
+    "hero_code": "c6005",
+    "nickname": "\u661f\u5c18\u306e\u547c\u5438",
+    "nick_no": 88681924,
+    "world_code": "world_global",
+    "clan_name": "\u661f\u5c18\u4e4b\u6b4c",
+    "season_tiercode": "legend",
+    "win_score": 3176,
+    "win_rate": 61.07,
+    "win_cnt": 422,
+    "lose_cnt": 269,
+    "hero_list": [
+      "c2001",
+      "c2113",
+      "c2079"
+    ]
+  },
+  {
+    "season_rank": 33,
+    "hero_code": "c1154",
+    "nickname": "\ub798\ub514\uc5b8\ud2b8",
+    "nick_no": 127449145,
+    "world_code": "world_global",
+    "clan_name": "\uc5d0\ubd95\uc544\ub610\uc18d\ub0d0",
+    "season_tiercode": "legend",
+    "win_score": 3176,
+    "win_rate": 56.07,
+    "win_cnt": 494,
+    "lose_cnt": 387,
+    "hero_list": [
+      "c2079",
+      "c2124",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 34,
+    "hero_code": "c6005",
+    "nickname": "HealerM3ta",
+    "nick_no": 82318733,
+    "world_code": "world_global",
+    "clan_name": "Destiny",
+    "season_tiercode": "legend",
+    "win_score": 3172,
+    "win_rate": 57.19,
+    "win_cnt": 334,
+    "lose_cnt": 250,
+    "hero_list": [
+      "c2001",
+      "c2113",
+      "c1168"
+    ]
+  },
+  {
+    "season_rank": 35,
+    "hero_code": "c2001",
+    "nickname": "EpicAiBot",
+    "nick_no": 91691789,
+    "world_code": "world_kor",
+    "clan_name": "\uac00\uc2a4\uc2e4",
+    "season_tiercode": "legend",
+    "win_score": 3165,
+    "win_rate": 58.42,
+    "win_cnt": 399,
+    "lose_cnt": 284,
+    "hero_list": [
+      "c1176",
+      "c2001",
+      "c2008"
+    ]
+  },
+  {
+    "season_rank": 36,
+    "hero_code": "c2009_s01",
+    "nickname": "\ud76c\uace1",
+    "nick_no": 54491637,
+    "world_code": "world_kor",
+    "clan_name": "6duck",
+    "season_tiercode": "legend",
+    "win_score": 3164,
+    "win_rate": 55.27,
+    "win_cnt": 718,
+    "lose_cnt": 581,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 37,
+    "hero_code": "c2101",
+    "nickname": "Casca",
+    "nick_no": 56315680,
+    "world_code": "world_kor",
+    "clan_name": "Star",
+    "season_tiercode": "legend",
+    "win_score": 3163,
+    "win_rate": 55.63,
+    "win_cnt": 440,
+    "lose_cnt": 351,
+    "hero_list": [
+      "c2113",
+      "c1117",
+      "c2128"
+    ]
+  },
+  {
+    "season_rank": 38,
+    "hero_code": "c2079_s01",
+    "nickname": "\uac10\uc790\uae4c",
+    "nick_no": 85610224,
+    "world_code": "world_global",
+    "clan_name": "\ucf54\ud615\uc11d",
+    "season_tiercode": "legend",
+    "win_score": 3162,
+    "win_rate": 57.9,
+    "win_cnt": 568,
+    "lose_cnt": 413,
+    "hero_list": [
+      "c2024",
+      "c2103",
+      "c2079"
+    ]
+  },
+  {
+    "season_rank": 39,
+    "hero_code": "c2082",
+    "nickname": "\u6c34\u6298",
+    "nick_no": 68673050,
+    "world_code": "world_asia",
+    "clan_name": "\u971c\u7709\u5ce1\u8c37",
+    "season_tiercode": "legend",
+    "win_score": 3161,
+    "win_rate": 62.67,
+    "win_cnt": 277,
+    "lose_cnt": 165,
+    "hero_list": [
+      "c1168",
+      "c2103",
+      "c1022"
+    ]
+  },
+  {
+    "season_rank": 40,
+    "hero_code": "c3153",
+    "nickname": "SiroOh",
+    "nick_no": 123490699,
+    "world_code": "world_global",
+    "clan_name": "towercornR",
+    "season_tiercode": "legend",
+    "win_score": 3161,
+    "win_rate": 60.12,
+    "win_cnt": 306,
+    "lose_cnt": 203,
+    "hero_list": [
+      "c2113",
+      "c2124",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 41,
+    "hero_code": "c1173",
+    "nickname": "\uc704\uc2a4\ud0a4",
+    "nick_no": 163956422,
+    "world_code": "world_kor",
+    "clan_name": "\uc2e0\uc138\uacc4",
+    "season_tiercode": "legend",
+    "win_score": 3161,
+    "win_rate": 55.26,
+    "win_cnt": 798,
+    "lose_cnt": 646,
+    "hero_list": [
+      "c1143",
+      "c1176",
+      "c6050"
+    ]
+  },
+  {
+    "season_rank": 42,
+    "hero_code": "c1153_s01",
+    "nickname": "Waterbuffalo",
+    "nick_no": 62045468,
+    "world_code": "world_global",
+    "clan_name": "\uace0\uc591\uc774",
+    "season_tiercode": "legend",
+    "win_score": 3152,
+    "win_rate": 61.37,
+    "win_cnt": 394,
+    "lose_cnt": 248,
+    "hero_list": [
+      "c2129",
+      "c1143",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 43,
+    "hero_code": "c1172",
+    "nickname": "Bobu",
+    "nick_no": 137537222,
+    "world_code": "world_asia",
+    "clan_name": "Covenants",
+    "season_tiercode": "legend",
+    "win_score": 3150,
+    "win_rate": 56.91,
+    "win_cnt": 350,
+    "lose_cnt": 265,
+    "hero_list": [
+      "c2125",
+      "c1176",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 44,
+    "hero_code": "c1176",
+    "nickname": "Chakey",
+    "nick_no": 71559401,
+    "world_code": "world_asia",
+    "clan_name": "\u70bc\u91d1\u672f\u58eb\u91cd\u542f\u72ee\u4e4b\u57ce",
+    "season_tiercode": "legend",
+    "win_score": 3146,
+    "win_rate": 61.06,
+    "win_cnt": 414,
+    "lose_cnt": 264,
+    "hero_list": [
+      "c1176",
+      "c2124",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 45,
+    "hero_code": "c4012",
+    "nickname": "lBlackfox",
+    "nick_no": 79413693,
+    "world_code": "world_global",
+    "clan_name": "Firefly",
+    "season_tiercode": "legend",
+    "win_score": 3144,
+    "win_rate": 68.28,
+    "win_cnt": 226,
+    "lose_cnt": 105,
+    "hero_list": [
+      "c2113",
+      "c1176",
+      "c2066"
+    ]
+  },
+  {
+    "season_rank": 46,
+    "hero_code": "c1172",
+    "nickname": "XLR9",
+    "nick_no": 177444551,
+    "world_code": "world_global",
+    "clan_name": "Life",
+    "season_tiercode": "legend",
+    "win_score": 3142,
+    "win_rate": 62.56,
+    "win_cnt": 249,
+    "lose_cnt": 149,
+    "hero_list": [
+      "c2103",
+      "c2089",
+      "c1168"
+    ]
+  },
+  {
+    "season_rank": 47,
+    "hero_code": "c1007",
+    "nickname": "\ubb3c\ub85c\ucf13",
+    "nick_no": 52586234,
+    "world_code": "world_kor",
+    "clan_name": "6duck",
+    "season_tiercode": "legend",
+    "win_score": 3140,
+    "win_rate": 58.28,
+    "win_cnt": 292,
+    "lose_cnt": 209,
+    "hero_list": [
+      "c1143",
+      "c5175",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 48,
+    "hero_code": "c6062",
+    "nickname": "\u9811\u76ae\u7684\u9b5a",
+    "nick_no": 60402580,
+    "world_code": "world_global",
+    "clan_name": "\u6c99\u8036\u4e4b\u6b4c",
+    "season_tiercode": "legend",
+    "win_score": 3139,
+    "win_rate": 63.39,
+    "win_cnt": 310,
+    "lose_cnt": 179,
+    "hero_list": [
+      "c1168",
+      "c2113",
+      "c2079"
+    ]
+  },
+  {
+    "season_rank": 49,
+    "hero_code": "c1070",
+    "nickname": "Hwi220",
+    "nick_no": 55685318,
+    "world_code": "world_kor",
+    "clan_name": "\uac00\uc2a4\uc2e4",
+    "season_tiercode": "legend",
+    "win_score": 3135,
+    "win_rate": 56.59,
+    "win_cnt": 395,
+    "lose_cnt": 303,
+    "hero_list": [
+      "c2124",
+      "c1168",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 50,
+    "hero_code": "c5175",
+    "nickname": "\ub3d9\uc804\ub9c8\uc220",
+    "nick_no": 177116568,
+    "world_code": "world_kor",
+    "clan_name": "Creccendo",
+    "season_tiercode": "legend",
+    "win_score": 3135,
+    "win_rate": 55.72,
+    "win_cnt": 550,
+    "lose_cnt": 437,
+    "hero_list": [
+      "c1153",
+      "c5110",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 51,
+    "hero_code": "m0131",
+    "nickname": "\ub290\ub9bf\ub290\ub9bf\ud558\uac8c",
+    "nick_no": 264088466,
+    "world_code": "world_kor",
+    "clan_name": "\uc544\uce74\uce20\ud0a4",
+    "season_tiercode": "legend",
+    "win_score": 3132,
+    "win_rate": 55.71,
+    "win_cnt": 361,
+    "lose_cnt": 287,
+    "hero_list": [
+      "c1143",
+      "c1176",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 52,
+    "hero_code": "c1081_s01",
+    "nickname": "42\ud68c\ucc28",
+    "nick_no": 53509258,
+    "world_code": "world_kor",
+    "clan_name": "\uace0\uc591\uc774",
+    "season_tiercode": "legend",
+    "win_score": 3130,
+    "win_rate": 57.86,
+    "win_cnt": 493,
+    "lose_cnt": 359,
+    "hero_list": [
+      "c1168",
+      "c2066",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 53,
+    "hero_code": "c2079_s01",
+    "nickname": "Brycester2",
+    "nick_no": 130599173,
+    "world_code": "world_asia",
+    "clan_name": "Momoland",
+    "season_tiercode": "legend",
+    "win_score": 3129,
+    "win_rate": 60.06,
+    "win_cnt": 397,
+    "lose_cnt": 264,
+    "hero_list": [
+      "c2002",
+      "c1168",
+      "c1176"
+    ]
+  },
+  {
+    "season_rank": 54,
+    "hero_code": "c2101",
+    "nickname": "\uad6c\uc870",
+    "nick_no": 52557789,
+    "world_code": "world_kor",
+    "clan_name": "Zero",
+    "season_tiercode": "legend",
+    "win_score": 3128,
+    "win_rate": 58.5,
+    "win_cnt": 296,
+    "lose_cnt": 210,
+    "hero_list": [
+      "c2089",
+      "c5128",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 55,
+    "hero_code": "c1176",
+    "nickname": "BinRussell",
+    "nick_no": 282693304,
+    "world_code": "world_eu",
+    "clan_name": "Kudaistop",
+    "season_tiercode": "legend",
+    "win_score": 3127,
+    "win_rate": 55.69,
+    "win_cnt": 465,
+    "lose_cnt": 370,
+    "hero_list": [
+      "c2125",
+      "c1176",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 56,
+    "hero_code": "c2049",
+    "nickname": "\u628a\u4f60\u65e5\u7684\u55b5\u55b5\u53eb",
+    "nick_no": 124355444,
+    "world_code": "world_asia",
+    "clan_name": "\u5927\u67ab\u6811",
+    "season_tiercode": "legend",
+    "win_score": 3123,
+    "win_rate": 60.26,
+    "win_cnt": 329,
+    "lose_cnt": 217,
+    "hero_list": [
+      "c2089",
+      "c2103",
+      "c1168"
+    ]
+  },
+  {
+    "season_rank": 57,
+    "hero_code": "c6003",
+    "nickname": "\u53cb\u60c5\u7684\u7ed3\u6676",
+    "nick_no": 64873603,
+    "world_code": "world_asia",
+    "clan_name": "TR1N1TY7",
+    "season_tiercode": "legend",
+    "win_score": 3122,
+    "win_rate": 58.73,
+    "win_cnt": 360,
+    "lose_cnt": 253,
+    "hero_list": [
+      "c2001",
+      "c1172",
+      "c1143"
+    ]
+  },
+  {
+    "season_rank": 58,
+    "hero_code": "c2002_s01",
+    "nickname": "\uba4d\uc5d0",
+    "nick_no": 51746827,
+    "world_code": "world_kor",
+    "clan_name": "\ub098\uc774\ud2b8\uc624\ube0c\ub77c\uc6b4\uc988",
+    "season_tiercode": "legend",
+    "win_score": 3121,
+    "win_rate": 60.66,
+    "win_cnt": 259,
+    "lose_cnt": 168,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 59,
+    "hero_code": "c2129",
+    "nickname": "cacao72",
+    "nick_no": 247151830,
+    "world_code": "world_global",
+    "clan_name": "\uc5d0\ud53d\uc138\ube10",
+    "season_tiercode": "legend",
+    "win_score": 3121,
+    "win_rate": 56.8,
+    "win_cnt": 493,
+    "lose_cnt": 375,
+    "hero_list": [
+      "c2002",
+      "c2125",
+      "c2079"
+    ]
+  },
+  {
+    "season_rank": 60,
+    "hero_code": "c2080",
+    "nickname": "Sealsworth",
+    "nick_no": 192942312,
+    "world_code": "world_global",
+    "clan_name": "Rhythmic",
+    "season_tiercode": "legend",
+    "win_score": 3121,
+    "win_rate": 55.17,
+    "win_cnt": 518,
+    "lose_cnt": 421,
+    "hero_list": [
+      "c2113",
+      "c2066",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 61,
+    "hero_code": "c2082",
+    "nickname": "Arcanaa",
+    "nick_no": 197391328,
+    "world_code": "world_kor",
+    "clan_name": "Zero",
+    "season_tiercode": "legend",
+    "win_score": 3117,
+    "win_rate": 63.86,
+    "win_cnt": 235,
+    "lose_cnt": 133,
+    "hero_list": [
+      "c2089",
+      "c2113",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 62,
+    "hero_code": "c2001",
+    "nickname": "\u9ed2\u5ddd\u8d64\u97f3",
+    "nick_no": 61284190,
+    "world_code": "world_asia",
+    "clan_name": "\u84dd\u8272\u56fd\u5ea6",
+    "season_tiercode": "legend",
+    "win_score": 3117,
+    "win_rate": 58.2,
+    "win_cnt": 291,
+    "lose_cnt": 209,
+    "hero_list": [
+      "c1176",
+      "c2125",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 63,
+    "hero_code": "c2001",
+    "nickname": "Dainslyf",
+    "nick_no": 72084142,
+    "world_code": "world_global",
+    "clan_name": "WarWaifu",
+    "season_tiercode": "legend",
+    "win_score": 3114,
+    "win_rate": 63.12,
+    "win_cnt": 267,
+    "lose_cnt": 156,
+    "hero_list": [
+      "c6050",
+      "c2002",
+      "c2128"
+    ]
+  },
+  {
+    "season_rank": 64,
+    "hero_code": "c6050",
+    "nickname": "GenieKing",
+    "nick_no": 201647657,
+    "world_code": "world_eu",
+    "clan_name": "\u6d41\u6d6a\u732b\u732b",
+    "season_tiercode": "legend",
+    "win_score": 3112,
+    "win_rate": 56.24,
+    "win_cnt": 365,
+    "lose_cnt": 284,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2066"
+    ]
+  },
+  {
+    "season_rank": 65,
+    "hero_code": "c1134",
+    "nickname": "sfinns",
+    "nick_no": 171276418,
+    "world_code": "world_global",
+    "clan_name": "Valla",
+    "season_tiercode": "legend",
+    "win_score": 3109,
+    "win_rate": 53.86,
+    "win_cnt": 307,
+    "lose_cnt": 263,
+    "hero_list": [
+      "c1172",
+      "c2053",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 66,
+    "hero_code": "c1153_s01",
+    "nickname": "\u7ea2\u8c46\u3060",
+    "nick_no": 65383729,
+    "world_code": "world_asia",
+    "clan_name": "\u6c34\u9f8d\u656c\u6a02\u5712",
+    "season_tiercode": "legend",
+    "win_score": 3108,
+    "win_rate": 56.89,
+    "win_cnt": 380,
+    "lose_cnt": 288,
+    "hero_list": [
+      "c1168",
+      "c2124",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 67,
+    "hero_code": "c2125",
+    "nickname": "7777",
+    "nick_no": 130494415,
+    "world_code": "world_eu",
+    "clan_name": "WRSTxLSRS",
+    "season_tiercode": "legend",
+    "win_score": 3106,
+    "win_rate": 52.87,
+    "win_cnt": 543,
+    "lose_cnt": 484,
+    "hero_list": [
+      "c1143",
+      "c1168",
+      "c6050"
+    ]
+  },
+  {
+    "season_rank": 68,
+    "hero_code": "c1172",
+    "nickname": "\uc11d\uc6d4",
+    "nick_no": 56389721,
+    "world_code": "world_kor",
+    "clan_name": "EPYON",
+    "season_tiercode": "legend",
+    "win_score": 3103,
+    "win_rate": 56.66,
+    "win_cnt": 553,
+    "lose_cnt": 423,
+    "hero_list": [
+      "c2001",
+      "c2124",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 69,
+    "hero_code": "c5128",
+    "nickname": "\u5c01\u580214",
+    "nick_no": 67849682,
+    "world_code": "world_global",
+    "clan_name": "\u6808\u96ea",
+    "season_tiercode": "legend",
+    "win_score": 3101,
+    "win_rate": 58.98,
+    "win_cnt": 312,
+    "lose_cnt": 217,
+    "hero_list": [
+      "c2125",
+      "c2079",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 70,
+    "hero_code": "c1173",
+    "nickname": "Bumyoon\u30c4",
+    "nick_no": 72074971,
+    "world_code": "world_asia",
+    "clan_name": "Outspeed",
+    "season_tiercode": "legend",
+    "win_score": 3101,
+    "win_rate": 57.53,
+    "win_cnt": 279,
+    "lose_cnt": 206,
+    "hero_list": [
+      "c2113",
+      "c2125",
+      "c2089"
+    ]
+  },
+  {
+    "season_rank": 71,
+    "hero_code": "c2129",
+    "nickname": "\ucfe0\ud0a4\uad7d\ub294\uc0ac\ub78c",
+    "nick_no": 68090582,
+    "world_code": "world_kor",
+    "clan_name": "\uac00\uc2a4\uc2e4",
+    "season_tiercode": "legend",
+    "win_score": 3100,
+    "win_rate": 59.51,
+    "win_cnt": 416,
+    "lose_cnt": 283,
+    "hero_list": [
+      "c2002",
+      "c2113",
+      "c1117"
+    ]
+  },
+  {
+    "season_rank": 72,
+    "hero_code": "c1123",
+    "nickname": "Myka\u30fc",
+    "nick_no": 208851590,
+    "world_code": "world_global",
+    "clan_name": "Prominent",
+    "season_tiercode": "legend",
+    "win_score": 3097,
+    "win_rate": 53.29,
+    "win_cnt": 445,
+    "lose_cnt": 390,
+    "hero_list": [
+      "c2002",
+      "c2124",
+      "c1153"
+    ]
+  },
+  {
+    "season_rank": 73,
+    "hero_code": "c1159",
+    "nickname": "\u98ce\u95f4\u7409\u7483",
+    "nick_no": 138874061,
+    "world_code": "world_jpn",
+    "clan_name": "283\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3",
+    "season_tiercode": "legend",
+    "win_score": 3090,
+    "win_rate": 59.43,
+    "win_cnt": 290,
+    "lose_cnt": 198,
+    "hero_list": [
+      "c2124",
+      "c1046",
+      "c2103"
+    ]
+  },
+  {
+    "season_rank": 74,
+    "hero_code": "c2050_s01",
+    "nickname": "airpood",
+    "nick_no": 236340387,
+    "world_code": "world_asia",
+    "clan_name": "Daijoubu",
+    "season_tiercode": "legend",
+    "win_score": 3089,
+    "win_rate": 57.72,
+    "win_cnt": 415,
+    "lose_cnt": 304,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c1176"
+    ]
+  },
+  {
+    "season_rank": 75,
+    "hero_code": "c2066",
+    "nickname": "\ub9e4\uc2e4\ucc28",
+    "nick_no": 50094501,
+    "world_code": "world_kor",
+    "clan_name": "LastStars",
+    "season_tiercode": "legend",
+    "win_score": 3089,
+    "win_rate": 55.74,
+    "win_cnt": 296,
+    "lose_cnt": 235,
+    "hero_list": [
+      "c1168",
+      "c2124",
+      "c6005"
+    ]
+  },
+  {
+    "season_rank": 76,
+    "hero_code": "c1172",
+    "nickname": "\u7eb1\u751c\u5948",
+    "nick_no": 62871200,
+    "world_code": "world_global",
+    "clan_name": "\u661f\u6708\u4e4b\u8f89",
+    "season_tiercode": "legend",
+    "win_score": 3088,
+    "win_rate": 63.9,
+    "win_cnt": 200,
+    "lose_cnt": 113,
+    "hero_list": [
+      "c2103",
+      "c1172",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 77,
+    "hero_code": "c1176",
+    "nickname": "\ub3d9\ubb3c",
+    "nick_no": 55963490,
+    "world_code": "world_kor",
+    "clan_name": "\uad11\uc7a5",
+    "season_tiercode": "legend",
+    "win_score": 3084,
+    "win_rate": 60.84,
+    "win_cnt": 261,
+    "lose_cnt": 168,
+    "hero_list": [
+      "c2124",
+      "c2125",
+      "c5110"
+    ]
+  },
+  {
+    "season_rank": 78,
+    "hero_code": "c1101_s01",
+    "nickname": "\u3064\u30fb\u30fb\u3064",
+    "nick_no": 282482471,
+    "world_code": "world_asia",
+    "clan_name": "Daijoubu",
+    "season_tiercode": "legend",
+    "win_score": 3083,
+    "win_rate": 60.0,
+    "win_cnt": 321,
+    "lose_cnt": 214,
+    "hero_list": [
+      "c2001",
+      "c5110",
+      "c2089"
+    ]
+  },
+  {
+    "season_rank": 79,
+    "hero_code": "c2072",
+    "nickname": "\uc2ed\uac70\ubd80\uae30",
+    "nick_no": 53331365,
+    "world_code": "world_kor",
+    "clan_name": "\ub098\uc774\ud2b8\uc624\ube0c\ub77c\uc6b4\uc988",
+    "season_tiercode": "legend",
+    "win_score": 3082,
+    "win_rate": 58.96,
+    "win_cnt": 385,
+    "lose_cnt": 268,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2066"
+    ]
+  },
+  {
+    "season_rank": 80,
+    "hero_code": "c1016_s02",
+    "nickname": "s\u4e00\u7b11\u5948\u4f55s",
+    "nick_no": 60247991,
+    "world_code": "world_asia",
+    "clan_name": "o\u9189\u4ed9\u6a13o",
+    "season_tiercode": "legend",
+    "win_score": 3082,
+    "win_rate": 55.71,
+    "win_cnt": 312,
+    "lose_cnt": 248,
+    "hero_list": [
+      "c2113",
+      "c1176",
+      "c2128"
+    ]
+  },
+  {
+    "season_rank": 81,
+    "hero_code": "c1030",
+    "nickname": "IZAQUID",
+    "nick_no": 257241426,
+    "world_code": "world_global",
+    "clan_name": "Prayge",
+    "season_tiercode": "legend",
+    "win_score": 3082,
+    "win_rate": 55.34,
+    "win_cnt": 321,
+    "lose_cnt": 259,
+    "hero_list": [
+      "c2124",
+      "c6005",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 82,
+    "hero_code": "c6003",
+    "nickname": "Race",
+    "nick_no": 58797652,
+    "world_code": "world_kor",
+    "clan_name": "\ub098\uc774\ud2b8\uc624\ube0c\ub77c\uc6b4\uc988",
+    "season_tiercode": "legend",
+    "win_score": 3081,
+    "win_rate": 60.09,
+    "win_cnt": 259,
+    "lose_cnt": 172,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2066"
+    ]
+  },
+  {
+    "season_rank": 83,
+    "hero_code": "c1143",
+    "nickname": "\ud3ed\ub825",
+    "nick_no": 124682864,
+    "world_code": "world_asia",
+    "clan_name": "Outspeed",
+    "season_tiercode": "legend",
+    "win_score": 3080,
+    "win_rate": 56.5,
+    "win_cnt": 748,
+    "lose_cnt": 576,
+    "hero_list": [
+      "c2089",
+      "c2103",
+      "c5128"
+    ]
+  },
+  {
+    "season_rank": 84,
+    "hero_code": "c6005",
+    "nickname": "\uc544\ub8e8\ubab0\ub8e8",
+    "nick_no": 51379025,
+    "world_code": "world_kor",
+    "clan_name": "Zero",
+    "season_tiercode": "legend",
+    "win_score": 3079,
+    "win_rate": 60.56,
+    "win_cnt": 324,
+    "lose_cnt": 211,
+    "hero_list": [
+      "c1153",
+      "c2002",
+      "c2113"
+    ]
+  },
+  {
+    "season_rank": 85,
+    "hero_code": "c1073",
+    "nickname": "Axarian",
+    "nick_no": 200148716,
+    "world_code": "world_global",
+    "clan_name": "Veritas",
+    "season_tiercode": "legend",
+    "win_score": 3079,
+    "win_rate": 55.65,
+    "win_cnt": 271,
+    "lose_cnt": 216,
+    "hero_list": [
+      "c2124",
+      "c6005",
+      "c1168"
+    ]
+  },
+  {
+    "season_rank": 86,
+    "hero_code": "c1097_s01",
+    "nickname": "\u54f2\u989c",
+    "nick_no": 72751685,
+    "world_code": "world_asia",
+    "clan_name": "\u4e34\u6c5f\u66ae\u96ea",
+    "season_tiercode": "legend",
+    "win_score": 3078,
+    "win_rate": 58.35,
+    "win_cnt": 283,
+    "lose_cnt": 202,
+    "hero_list": [
+      "c1143",
+      "c2113",
+      "c1034"
+    ]
+  },
+  {
+    "season_rank": 87,
+    "hero_code": "c2016",
+    "nickname": "\uc6a9\uc81c",
+    "nick_no": 50099646,
+    "world_code": "world_kor",
+    "clan_name": "\uc6d4\ud76c",
+    "season_tiercode": "legend",
+    "win_score": 3075,
+    "win_rate": 66.78,
+    "win_cnt": 195,
+    "lose_cnt": 97,
+    "hero_list": [
+      "c2128",
+      "c2053",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 88,
+    "hero_code": "c6020",
+    "nickname": "uckky",
+    "nick_no": 188175150,
+    "world_code": "world_global",
+    "clan_name": "OnlyDucks",
+    "season_tiercode": "legend",
+    "win_score": 3073,
+    "win_rate": 61.54,
+    "win_cnt": 224,
+    "lose_cnt": 140,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c1117"
+    ]
+  },
+  {
+    "season_rank": 89,
+    "hero_code": "c2103",
+    "nickname": "prinzsouls",
+    "nick_no": 90473468,
+    "world_code": "world_asia",
+    "clan_name": "Impurity",
+    "season_tiercode": "legend",
+    "win_score": 3069,
+    "win_rate": 53.11,
+    "win_cnt": 410,
+    "lose_cnt": 362,
+    "hero_list": [
+      "c5175",
+      "c2112",
+      "c2103"
+    ]
+  },
+  {
+    "season_rank": 90,
+    "hero_code": "c2129",
+    "nickname": "\ud558\ud2b8\ub9db\uc6b0\uc720",
+    "nick_no": 277098583,
+    "world_code": "world_kor",
+    "clan_name": "\ud37c\ub79c\ub4dc",
+    "season_tiercode": "legend",
+    "win_score": 3068,
+    "win_rate": 55.44,
+    "win_cnt": 316,
+    "lose_cnt": 254,
+    "hero_list": [
+      "c2124",
+      "c2113",
+      "c2128"
+    ]
+  },
+  {
+    "season_rank": 91,
+    "hero_code": "c2125",
+    "nickname": "Akari\u7231",
+    "nick_no": 149910154,
+    "world_code": "world_asia",
+    "clan_name": "Daijoubu",
+    "season_tiercode": "legend",
+    "win_score": 3065,
+    "win_rate": 54.62,
+    "win_cnt": 414,
+    "lose_cnt": 344,
+    "hero_list": [
+      "c2001",
+      "c1046",
+      "c2124"
+    ]
+  },
+  {
+    "season_rank": 92,
+    "hero_code": "c1173",
+    "nickname": "smokemon",
+    "nick_no": 133365704,
+    "world_code": "world_global",
+    "clan_name": "Milim",
+    "season_tiercode": "legend",
+    "win_score": 3064,
+    "win_rate": 58.14,
+    "win_cnt": 257,
+    "lose_cnt": 185,
+    "hero_list": [
+      "c2113",
+      "c1176",
+      "c1153"
+    ]
+  },
+  {
+    "season_rank": 93,
+    "hero_code": "c2103",
+    "nickname": "macodz",
+    "nick_no": 151694948,
+    "world_code": "world_asia",
+    "clan_name": "Momoland",
+    "season_tiercode": "legend",
+    "win_score": 3064,
+    "win_rate": 54.03,
+    "win_cnt": 288,
+    "lose_cnt": 245,
+    "hero_list": [
+      "c2113",
+      "c1176",
+      "c2002"
+    ]
+  },
+  {
+    "season_rank": 94,
+    "hero_code": "c2103",
+    "nickname": "Syn\u00f8x",
+    "nick_no": 84555838,
+    "world_code": "world_asia",
+    "clan_name": "Zodiac",
+    "season_tiercode": "legend",
+    "win_score": 3064,
+    "win_rate": 52.98,
+    "win_cnt": 453,
+    "lose_cnt": 402,
+    "hero_list": [
+      "c2002",
+      "c2113",
+      "c2125"
+    ]
+  },
+  {
+    "season_rank": 95,
+    "hero_code": "c2079_s01",
+    "nickname": "xDansasx",
+    "nick_no": 262697977,
+    "world_code": "world_global",
+    "clan_name": "Lgante",
+    "season_tiercode": "legend",
+    "win_score": 3063,
+    "win_rate": 62.26,
+    "win_cnt": 231,
+    "lose_cnt": 140,
+    "hero_list": [
+      "c1117",
+      "c2124",
+      "c2125"
+    ]
+  },
+  {
+    "season_rank": 96,
+    "hero_code": "c1176",
+    "nickname": "BieII",
+    "nick_no": 138199844,
+    "world_code": "world_global",
+    "clan_name": "Fleet",
+    "season_tiercode": "legend",
+    "win_score": 3063,
+    "win_rate": 52.57,
+    "win_cnt": 439,
+    "lose_cnt": 396,
+    "hero_list": [
+      "c1143",
+      "c2124",
+      "c2066"
+    ]
+  },
+  {
+    "season_rank": 97,
+    "hero_code": "c6003",
+    "nickname": "Scheiren",
+    "nick_no": 61541652,
+    "world_code": "world_asia",
+    "clan_name": "Shokubutsu",
+    "season_tiercode": "legend",
+    "win_score": 3063,
+    "win_rate": 48.07,
+    "win_cnt": 599,
+    "lose_cnt": 647,
+    "hero_list": [
+      "c2089",
+      "c2124",
+      "c2103"
+    ]
+  },
+  {
+    "season_rank": 98,
+    "hero_code": "c2129",
+    "nickname": "\ub514\ub801\uc774\ub300\uc7a5",
+    "nick_no": 58289015,
+    "world_code": "world_kor",
+    "clan_name": "\uc9d1\ube4c",
+    "season_tiercode": "legend",
+    "win_score": 3062,
+    "win_rate": 57.41,
+    "win_cnt": 1305,
+    "lose_cnt": 968,
+    "hero_list": [
+      "c2125",
+      "c5110",
+      "c2112"
+    ]
+  },
+  {
+    "season_rank": 99,
+    "hero_code": "c5128",
+    "nickname": "\uc9c4\uc21c\ucea3\ub9d8\ub77d\ucc14",
+    "nick_no": 151998533,
+    "world_code": "world_kor",
+    "clan_name": "\ube0c\ub77c\uc6b4\ub354\uc2a4\ud2b8",
+    "season_tiercode": "legend",
+    "win_score": 3062,
+    "win_rate": 54.59,
+    "win_cnt": 452,
+    "lose_cnt": 376,
+    "hero_list": [
+      "c2113",
+      "c2124",
+      "c2001"
+    ]
+  },
+  {
+    "season_rank": 100,
+    "hero_code": "c2129",
+    "nickname": "\ucc64\uc288",
+    "nick_no": 62483494,
+    "world_code": "world_kor",
+    "clan_name": "\ub124\uc78e\ud074\ub85c\ubc84",
+    "season_tiercode": "legend",
+    "win_score": 3062,
+    "win_rate": 52.7,
+    "win_cnt": 351,
+    "lose_cnt": 315,
+    "hero_list": [
+      "c2125",
+      "c2113",
+      "c2002"
+    ]
+  }
+]
