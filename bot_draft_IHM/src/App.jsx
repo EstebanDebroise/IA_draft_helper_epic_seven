@@ -4,32 +4,40 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        <img src={viteLogo} className="logo" alt="Vite logo" />
+        <img src={reactLogo} className="logo react" alt="React logo" />
       </div>
-      <h1>Vite + React</h1>
+      <h1>Welcome to Draft_bot!</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        <div className="menu">
+          <button className="button" id="play-button" onClick={handlePlayButtonClick}>
+            JOUER
+          </button>
+          <button className="button" id="settings-button" onClick={handleSettingsButtonClick}>
+            PARAMÈTRES
+          </button>
+          <button className="button" id="quit-button" onClick={handleQuitButtonClick}>
+            QUITTER
+          </button>
+        </div>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
+}
+
+function handlePlayButtonClick() {
+  console.log("Play button clicked");
+}
+
+function handleSettingsButtonClick() {
+  console.log("Settings button clicked");
+}
+
+function handleQuitButtonClick() {
+  console.log("Quit button clicked");
 }
 
 export default App
